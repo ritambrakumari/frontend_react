@@ -18,7 +18,7 @@ Weather Now
 
 to run this project
 # 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/weather-now.git
+git clone https://github.com/ritambra kumari/weather-now.git
 
 # 2️⃣ Go into the project directory
 cd weather-now 
